@@ -8,10 +8,14 @@ The boarding platform is made up of two pieces (in order to fit through the hatc
 The bottom of the boarding platform has mounts that put [Sorbothane](http://www.sorbothane.com/) blocks in position to protect the hull from shock when vessels collide. 
 The front fender system is welded steel frame holding commercial-off-the-shelf (COTS) tugbot "W" [fenders](http://www.fendertec.com/w-fenders/). 
 
+## System Installed
+
 ![Installed](images/installed-above.png "Installed")
 
+## Bottom View
 ![Installed (bottom view)](images/installed-below.png "Installed (bottom view)")
 
+## Packaged for Storage
 ![Packaged](images/packaged.png "Packaged")
 
 
